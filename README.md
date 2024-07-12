@@ -39,3 +39,9 @@
 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 
 [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+# Articles
+
+[The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model/)
+
+[The Heroku HTTP API Design Guide](https://github.com/brandur/heroku-http-api-design)
