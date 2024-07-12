@@ -1,23 +1,27 @@
 # Books
 
-### Networking
+**Networking**
 
 [High-Performance Browser Networking](https://hpbn.co/primer-on-latency-and-bandwidth/)
+
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
 
-### Languages
+**Languages**
 
 Rust - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
+
 Rust - [Rust for Rustaceans](https://rust-for-rustaceans.com/)
 
-### SRE
+**SRE**
 
 [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
-### Potpourri
+**Potpourri**
 
 [The UNIX-HATERS Handbook](https://web.mit.edu/~simsong/www/ugh.pdf)
+
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 # Papers
