@@ -8,9 +8,13 @@
 
 **Languages**
 
-Rust - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
+[Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html) - Rust
 
-Rust - [Rust for Rustaceans](https://rust-for-rustaceans.com/)
+[Rust for Rustaceans](https://rust-for-rustaceans.com/) - Rust
+
+**Database**
+
+[Database Internals - A Deep-Dive into How Distributed Data Systems Work](https://www.databass.dev/)
 
 **SRE**
 
