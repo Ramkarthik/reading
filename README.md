@@ -1,5 +1,9 @@
 # Books
 
+**Systems**
+
+[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
 **Networking**
 
 [High-Performance Browser Networking](https://hpbn.co/primer-on-latency-and-bandwidth/)
