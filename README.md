@@ -22,6 +22,8 @@
 
 [Database Internals - A Deep-Dive into How Distributed Data Systems Work](https://www.databass.dev/)
 
+[High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)
+
 **SRE**
 
 [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
