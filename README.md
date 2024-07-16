@@ -22,8 +22,6 @@
 
 [Database Internals - A Deep-Dive into How Distributed Data Systems Work](https://www.databass.dev/)
 
-[High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)
-
 **SRE**
 
 [Google - Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
@@ -47,6 +45,10 @@
 [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 
 [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+[High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)
+
+[Bitcask - A Log-Structured Hash Table for Fast Key/Value Data](https://riak.com/assets/bitcask-intro.pdf)
 
 # Articles
 
