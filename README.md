@@ -50,6 +50,12 @@
 
 [Bitcask - A Log-Structured Hash Table for Fast Key/Value Data](https://riak.com/assets/bitcask-intro.pdf)
 
+[Using Set Cover to Optimize a Large-Scale Low Latency Distributed Graph](https://www.usenix.org/system/files/conference/hotcloud13/hotcloud13-wang.pdf)
+
+[SQLite: Past, Present, and Future](https://www.vldb.org/pvldb/vol15/p3535-gaffney.pdf)
+
+[The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
 # Articles
 
 [The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model/)
