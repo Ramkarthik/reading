@@ -61,3 +61,7 @@
 [The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model/)
 
 [The Heroku HTTP API Design Guide](https://github.com/brandur/heroku-http-api-design)
+
+[An In-Depth Introduction To Idempotency](https://lpalmieri.com/posts/idempotency/)
+
+[Bloom Filters](https://samwho.dev/bloom-filters/)
